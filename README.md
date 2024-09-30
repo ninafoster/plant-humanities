@@ -6,7 +6,7 @@
 
 `:font-size=1em`
 
-# Featured Resources 
+# Featured Resources (change)
 `.cards`
 
 ## How to Read an Herbarium Specimen
